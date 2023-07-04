@@ -1,0 +1,38 @@
+package herencia:
+import java.util.Scanner;
+
+public class persona {
+public String nombre;
+public String.apellido;
+public char.sexo;
+public int edad;
+
+public persona (String nombre, String apellido, char sexo,int edad) {
+
+this.nombre = nombre;
+this.edad = edad;
+this.sexo = sexo;
+this.apellido = apellido;
+ }
+ 
+ public String getnombre () ] 
+ return nombre ;
+ }
+ 
+ public String getapellido () ]
+ return apellido;
+ } 
+ 
+ public int getedad () ]
+ return edad;
+ } 
+ public char Sexo() {
+        if (sexo == 'h') {
+            System.out.println("El sexo de " + nombre + " es: hombre");
+        } else if (sexo == 'm') {
+            System.out.println("El sexo de " + nombre + " es: mujer");
+        } else 
+            
+        }
+    }
+    
